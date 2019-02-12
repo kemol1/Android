@@ -104,10 +104,6 @@ Slackモジュール選択時に表示される、「show advanced settings」�
 
 <img src="https://github.com/nyanc0/Android/blob/other_knowledge/integromat/images/readme_13.png?raw=true">
 
-今回は下記のような連携通知を作成します。  
-
-<img src="https://github.com/nyanc0/Android/blob/other_knowledge/integromat/images/slack_3.png?raw=true">
-
 正しくIntegromat側でBacklogのデータストラクチャが読み込まれている場合、  
 入力フィールドにフォーカスを当てると挿入できるデータをIntegromat側から表示してくれます。  
 
